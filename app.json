@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "PiggyBudget",
+    "slug": "budget-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "scheme": "budgettracker",
+    "splash": {
+      "image": "./assets/splash-icon2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nilojr.budgettracker"
+    },
+    "android": {
+      "package": "com.nilojr.budgettracker",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon2.png"
+    }
+  }
+}
